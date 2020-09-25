@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi china!
+
+I am a student now.
